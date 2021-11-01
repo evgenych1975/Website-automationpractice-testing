@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9cbd95b-5096-4691-b6b3-c1e6ee928ebb</testCaseGuid>
+   <variable>
+      <defaultValue>'test31102@test.com'</defaultValue>
+      <description></description>
+      <id>fbbc3d32-ef8a-4491-9e58-d138a0f97ba6</id>
+      <masked>false</masked>
+      <name>tcEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc123'</defaultValue>
+      <description></description>
+      <id>a95d57db-b419-43d8-9de6-3446c8720e54</id>
+      <masked>false</masked>
+      <name>tcPassword</name>
+   </variable>
+</TestCaseEntity>
